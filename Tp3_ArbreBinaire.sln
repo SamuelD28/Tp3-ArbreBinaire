@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp3_ArbreBinaire", "Tp3_ArbreBinaire\Tp3_ArbreBinaire.csproj", "{DF5F6697-9C66-479D-9B91-3A9E547B4949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5F6697-9C66-479D-9B91-3A9E547B4949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5F6697-9C66-479D-9B91-3A9E547B4949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5F6697-9C66-479D-9B91-3A9E547B4949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5F6697-9C66-479D-9B91-3A9E547B4949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81C65387-4B39-4F02-AF3C-B8E1F81A7A4C}
+	EndGlobalSection
+EndGlobal
