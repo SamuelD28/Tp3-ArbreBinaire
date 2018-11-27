@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp3_ArbreBinaire", "Tp3_ArbreBinaire\Tp3_ArbreBinaire.csproj", "{DF5F6697-9C66-479D-9B91-3A9E547B4949}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbreBinaireLib", "ArbreBinaireLib\ArbreBinaireLib.csproj", "{B29D6099-3DAB-44E3-A509-9F95985C8835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbreBinaireTest", "ArbreBinaireTest\ArbreBinaireTest.csproj", "{51FC4F89-B364-4467-B650-3556E3051049}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DF5F6697-9C66-479D-9B91-3A9E547B4949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF5F6697-9C66-479D-9B91-3A9E547B4949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF5F6697-9C66-479D-9B91-3A9E547B4949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29D6099-3DAB-44E3-A509-9F95985C8835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29D6099-3DAB-44E3-A509-9F95985C8835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29D6099-3DAB-44E3-A509-9F95985C8835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29D6099-3DAB-44E3-A509-9F95985C8835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51FC4F89-B364-4467-B650-3556E3051049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FC4F89-B364-4467-B650-3556E3051049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FC4F89-B364-4467-B650-3556E3051049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FC4F89-B364-4467-B650-3556E3051049}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
